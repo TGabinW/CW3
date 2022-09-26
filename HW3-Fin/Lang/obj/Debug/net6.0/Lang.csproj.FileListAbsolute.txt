@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Lang\bin\Debug\net6.0\Lang.deps.json
+C:\Users\USER\source\repos\Lang\bin\Debug\net6.0\Lang.dll
+C:\Users\USER\source\repos\Lang\bin\Debug\net6.0\Lang.pdb
+C:\Users\USER\source\repos\Lang\obj\Debug\net6.0\Lang.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Lang\obj\Debug\net6.0\Lang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Lang\obj\Debug\net6.0\Lang.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Lang\obj\Debug\net6.0\Lang.AssemblyInfo.cs
+C:\Users\USER\source\repos\Lang\obj\Debug\net6.0\Lang.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Lang\obj\Debug\net6.0\Lang.dll
+C:\Users\USER\source\repos\Lang\obj\Debug\net6.0\refint\Lang.dll
+C:\Users\USER\source\repos\Lang\obj\Debug\net6.0\Lang.pdb
+C:\Users\USER\source\repos\Lang\obj\Debug\net6.0\ref\Lang.dll
